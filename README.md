@@ -1,1 +1,1 @@
-# Program-Mengetahui-Bilangan-Ganjil-Genap-Algoritma-2
+# Program Mengetahui Bilangan Ganjil Genap
